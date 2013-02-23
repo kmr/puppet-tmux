@@ -1,8 +1,8 @@
-# Public: Install wget via homebrew
+# Public: Install tmux via homebrew
 #
 # Examples
 #
-#   include wget
+#   include tmux
 class tmux {
   include homebrew
 
