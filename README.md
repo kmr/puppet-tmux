@@ -1,6 +1,6 @@
-# Tmux Puppet Module for Boxen
+# tmux Puppet Module for Boxen
 
-Tmux!
+Install [tmux](http://tmux.sourceforge.net/), a terminal multiplexer.
 
 ## Usage
 
