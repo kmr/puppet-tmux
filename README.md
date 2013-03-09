@@ -1,4 +1,4 @@
-# tmux Puppet Module for Boxen
+# tmux Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-tmux.png?branch=master)](https://travis-ci.org/boxen/puppet-tmux)
 
 Install [tmux](http://tmux.sourceforge.net/), a terminal multiplexer.
 
@@ -15,5 +15,8 @@ include tmux
 
 ## Development
 
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+Write code. Run one of the following tasks to test it:
+* `rake syntax`
+* `rake style`
+* `rake spec`
+* `rake build`
