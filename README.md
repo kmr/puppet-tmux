@@ -15,8 +15,5 @@ include tmux
 
 ## Development
 
-Write code. Run one of the following tasks to test it:
-* `rake syntax`
-* `rake style`
-* `rake spec`
-* `rake build`
+Write code. Run `script/cibuild` to test it. Check the `script`
+directory for other useful tools.
